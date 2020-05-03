@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to Kosuke Kawakami Pages
+Data Scientist at negocia, Inc.
 
-You can use the [editor on GitHub](https://github.com/kokke213/kosuke_kawakami.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Profile
+#### Name
+川上 孝介/Kosuke Kawakami
+#### Major
+経営工学(Management engineering) / 宇宙物理学(Astrophysics)
+#### Programming Language
+Python, R, C\/C++, VBA
+#### Hobby
+tennis, photograph, marine diving, aquarium, programming
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Career
+- negocia株式会社, CDO, データサイエンティスト / Data Scientist, CD0 at negocia, Inc.(2019.11 - present)
+- 日本製鉄株式会社, 研究者 / Researcher, Nippon Steel Corporation (2013.04 - 2019.10)
 
-### Markdown
+### Education
+- 東京工業大学工学院経営工学系　博士課程 / Ph. D student, Department of Industrial Engineering and Economics Tokyo Institute of Technology (2018.4 - present)
+- 東京工業大学 大学院　基礎理工学研究科専攻 / M.S. in Physics, Tokyo Institute of Technology (2011.04 - 2013.03)
+- 東京工業大学 理学部 物理学科 / B.S. in Physics, Tokyo Institute of Technology (2007.04 - 2011.03)
+- 神奈川県立川和高等学校 / Kawawa High School(2004.04 - 2007.03)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research Achievements
+#### Refereed Proceedings in Conferences
+1. K. Kawakami and M. Tanaka:
+   Ship routing problem with berthing time clash avoidance constraints and minimizing demurrage,in Proceedings of the Tenth Triennial Symposium on Transportation Analysis, pp. 454--457, 2019.
+#### Oral Presentations in International Conferences
+1. K. Kawakami and M. Tanaka:
+   Ship routing problem with berthing time clash avoidance constraints and minimizing demurrage, the Tenth Triennial Symposium on Transportation Analysis.
 
-```markdown
-Syntax highlighted code block
+### Other Presentations
+1. 季節変動を考慮した適正在庫算出技術の開発, 日本鉄鋼協会第176回秋季講演大会, 2018
 
-# Header 1
-## Header 2
-### Header 3
-## test
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kokke213/kosuke_kawakami.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 連絡先 / Contact
+- Office: Yebisu Garden Place Tower 29F, 4-20-3 Ebisu, Shibuya-ku, Tokyo, Japan
+- Email: kosuke_kawakami (at) negocia.jp
