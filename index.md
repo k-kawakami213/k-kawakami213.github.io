@@ -7,7 +7,7 @@ Data Scientist at negocia, Inc.
 #### Major
 経営工学(Management engineering) / 宇宙物理学(Astrophysics)
 #### Programming Language
-Python, R, C\/C++, VBA
+Python, R, C/C++, VBA
 #### Hobby
 tennis, photograph, marine diving, aquarium, programming
 
