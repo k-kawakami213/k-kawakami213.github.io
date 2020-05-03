@@ -1,6 +1,3 @@
-## Welcome to Kosuke Kawakami Pages
-Data Scientist at negocia, Inc.
-
 ### Profile
 #### Name
 川上 孝介/Kosuke Kawakami
@@ -15,7 +12,7 @@ Python, R, C/C++, VBA
 tennis, photograph, marine diving, aquarium, programming
 
 ### Career
-- negocia株式会社, CDO, データサイエンティスト / Data Scientist, CD0 at negocia, Inc. (2019.11 - present)
+- negocia株式会社, CDO, データサイエンティスト / Data Scientist, CDO at negocia, Inc. (2019.11 - present)
 - 日本製鉄株式会社, 研究者 / Researcher, Nippon Steel Corporation (2013.04 - 2019.10)
 
 ### Education
