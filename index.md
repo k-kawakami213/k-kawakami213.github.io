@@ -4,10 +4,13 @@ Data Scientist at negocia, Inc.
 ### Profile
 #### Name
 川上 孝介/Kosuke Kawakami
+
 #### Major
 経営工学(Management engineering) / 宇宙物理学(Astrophysics)
+
 #### Programming Language
 Python, R, C/C++, VBA
+
 #### Hobby
 tennis, photograph, marine diving, aquarium, programming
 
@@ -25,11 +28,12 @@ tennis, photograph, marine diving, aquarium, programming
 #### Refereed Proceedings in Conferences
 1. K. Kawakami and M. Tanaka:
    Ship routing problem with berthing time clash avoidance constraints and minimizing demurrage,in Proceedings of the Tenth Triennial Symposium on Transportation Analysis, pp. 454--457, 2019.
+
 #### Oral Presentations in International Conferences
 1. K. Kawakami and M. Tanaka:
    Ship routing problem with berthing time clash avoidance constraints and minimizing demurrage, the Tenth Triennial Symposium on Transportation Analysis.
 
-### Other Presentations
+#### Other Presentations
 1. 季節変動を考慮した適正在庫算出技術の開発, 日本鉄鋼協会第176回秋季講演大会, 2018
 
 ### 連絡先 / Contact
