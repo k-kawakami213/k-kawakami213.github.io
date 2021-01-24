@@ -9,7 +9,7 @@
 Python, R, C/C++, VBA
 
 #### Hobby
-tennis, photograph, marine diving, aquarium, programming
+playing tennis, photograph, marine diving, aquarium, programming
 
 ### Career
 - negocia株式会社, CDO, データサイエンティスト / Data Scientist, CDO at negocia, Inc. (2019.11 - present)
@@ -23,15 +23,15 @@ tennis, photograph, marine diving, aquarium, programming
 
 ### Research Achievements
 
-#### Journal Paper
+#### Journal Papers
 1. K. Kawakami, H. Kobayashi, K. Nakata
 	Seasonal inventory management model for raw materials in steel industry, INFORMS Journal on Applied Analytics, 2021
 
-#### Refereed Proceedings in Conferences
+#### Refereed Proceedings
 1. K. Kawakami and M. Tanaka:
    Ship routing problem with berthing time clash avoidance constraints and minimizing demurrage, in Proceedings of the Tenth Triennial Symposium on Transportation Analysis, pp. 454--457, 2019.
 
-#### Oral Presentations in International Conferences
+#### Oral Presentations at International Conferences
 1. K. Kawakami and M. Tanaka:
    Ship routing problem with berthing time clash avoidance constraints and minimizing demurrage, the Tenth Triennial Symposium on Transportation Analysis.
 
