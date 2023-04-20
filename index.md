@@ -12,6 +12,7 @@ Python, R, C/C++, VBA
 playing tennis, photograph, marine diving, aquarium, programming
 
 ### Career
+- 博報堂テクノロジーズ株式会社, プロダクト開発センター, AI研究開発部 / Product DevelopmentExecutive, AI Research & Development Department. (2022.4 - present)
 - negocia株式会社, CDO, データサイエンティスト / Data Scientist, CDO at negocia, Inc. (2019.11 - present)
 - 日本製鉄株式会社, 研究者 / Researcher, Nippon Steel Corporation (2013.04 - 2019.10)
 
@@ -30,13 +31,21 @@ playing tennis, photograph, marine diving, aquarium, programming
 #### Refereed Proceedings
 1. K. Kawakami and M. Tanaka:
    Ship routing problem with berthing time clash avoidance constraints and minimizing demurrage, in Proceedings of the Tenth Triennial Symposium on Transportation Analysis, pp. 454--457, 2019.
+2. Ishizuka, Kota, Kai Kurogi, Kosuke Kawakami, Daishi Iwai, and Kazuhide Nakata. "Generating Search Text Ads from Keywords and Landing Pages via BERT2BERT." In Advances in Artificial Intelligence: Selected Papers from the Annual Conference of Japanese Society of Artificial Intelligence (JSAI 2021), pp. 27-33. Cham: Springer International Publishing, 2022.
+   
+#### Proceedings
+1. Kiyohara, Haruka, Kosuke Kawakami, and Yuta Saito. "Accelerating Offline Reinforcement Learning Application in Real-Time Bidding and Recommendation: Potential Use of Simulation." arXiv preprint arXiv:2109.08331 (2021).
 
 #### Oral Presentations at International Conferences
+1. K. Kawakami, H.Kobayashi, and K. Nakata : Seasonal inventory management model for raw materials in steel industry. The 22nd Conference of the International Federation of Operational Research Societies (IFORS 2021), August 2021.
 1. K. Kawakami and M. Tanaka:
    Ship routing problem with berthing time clash avoidance constraints and minimizing demurrage, the Tenth Triennial Symposium on Transportation Analysis.
 
 #### Other Presentations
-1. オンライン広告における KPI 制約を考慮した日予算最適化，日本オペレーションズリサーチ学会2021年春季研究発表会
+
+1. 川上孝介, 中田和秀: 実績データが少ない広告に対する入札額最適化ロジック. 日本オペレーションズ・リサーチ学会2023年春季研究発表会, 中央大学後楽園キャンパス, 2022年3月.
+1. 川上孝介, 中田和秀: インターネット広告における運用最適化および, クリエイト生成技術の開発. 日本オペレーションズ・リサーチ学会 2022年春季研究発表会, オンライン開催, 2022年3月.
+1. 川上孝介, 中田和秀: オンライン広告における KPI 制約を考慮した日予算最適化，日本オペレーションズリサーチ学会2021年春季研究発表会, 2021年3月
 1. 季節変動を考慮した適正在庫算出技術の開発, 日本鉄鋼協会第176回秋季講演大会, 2018
 1. 超小型衛星TSUBAME搭載用ガンマ線バースト位置決定検出器「広視野バーストモニタ」の開発日本天文学会2012年秋季年会
 1. 超小型衛星TSUBAME搭載用ガンマ線バースト検出器の開発，日本物理学会第67回年次大会
@@ -52,8 +61,6 @@ playing tennis, photograph, marine diving, aquarium, programming
 1. 日本製鉄株式会社，配船計画作成装置、方法及びプログラム，特開2020-013238号，2020-01-23
 1. 日本製鉄株式会社，非線形計画問題の演算装置、方法及びプログラム，特開2018-180694号．2018-11-15
 1. 日本製鉄株式会社，安全在庫決定装置、方法及びプログラム, 特許第6740860号．2018-05-10
-
-
 
 ### 連絡先 / Contact
 - Office: Yebisu Garden Place Tower 29F, 4-20-3 Ebisu, Shibuya-ku, Tokyo, Japan
